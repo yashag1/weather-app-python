@@ -1,5 +1,11 @@
 # Weather GUI App
 
+<p>
+  <a href="https://www.linkedin.com/in/yashag1" rel="follow opentowork">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp;
+</p>
+
 ## Introduction
 This simple Weather App is a user-friendly application that provides real-time weather data for any city worldwide. The app integrates with the OpenWeather API and features multi-language support for over 50 languages. It offers a sleek, intuitive interface to display key weather metrics such as temperature, wind speed, humidity, and sunrise/sunset times.
 
