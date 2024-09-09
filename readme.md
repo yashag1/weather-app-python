@@ -52,3 +52,6 @@ The app allows users to search for a city and instantly fetch weather details, s
 
 ## Conclusion
 This app combines simplicity with powerful functionality and is a comprehensive solution for users who want a clean, easy-to-use interface for checking weather data in real-time.
+
+## Credits
+Icons: <a href="https://www.freepik.com/free-vector/weather-polygonal-icons_3948953.htm#query=weather%20icons%20set&position=2&from_view=keyword&track=ais_hybrid&uuid=4df00539-1723-4082-9948-cdad37d05661">Image by macrovector</a> on Freepik
