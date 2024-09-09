@@ -2,8 +2,8 @@
 
 <p>
   <a href="https://www.linkedin.com/in/yashag1" rel="follow opentowork">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
 </p>
 
 ## Demo
