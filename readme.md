@@ -6,6 +6,9 @@
   </a> &nbsp;
 </p>
 
+## Demo
+![Demo screenshot](https://github.com/yashag1/weather-app-python/demo.png)
+
 ## Introduction
 This simple Weather App is a user-friendly application that provides real-time weather data for any city worldwide. The app integrates with the OpenWeather API and features multi-language support for over 50 languages. It offers a sleek, intuitive interface to display key weather metrics such as temperature, wind speed, humidity, and sunrise/sunset times.
 
