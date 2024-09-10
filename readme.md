@@ -6,12 +6,11 @@
   </a>
 </p>
 
-## Demo
-![demo image](https://github.com/user-attachments/assets/2e3547dd-8801-47c6-a6bc-dc55d48e4602)
-
-
 ## Introduction
 This simple Weather App is a user-friendly application that provides real-time weather data for any city worldwide. The app integrates with the OpenWeather API and features multi-language support for over 50 languages. It offers a sleek, intuitive interface to display key weather metrics such as temperature, wind speed, humidity, and sunrise/sunset times.
+
+## Demo
+![demo image](https://github.com/user-attachments/assets/2e3547dd-8801-47c6-a6bc-dc55d48e4602)
 
 ## Stack Used
 - **Language:** Python
